@@ -3,7 +3,7 @@
 <img src="https://github.com/tassiotfc/tassiotfc/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-# Olá 👋, sou Rarikmilkrai Souza, se sinta em casa. Atualmente estudando JAVA. Cursando Desenvolvimento de Software 🎓.
+# Olá 👋, sou Rarikmilkrai Souza, se sinta em casa. Tentando ser um cara bom em JAVA. Cursando Desenvolvimento de Software 🎓.
 
 ## Também pode me encontrar por aqui 💻
 <div>
@@ -14,7 +14,7 @@
  # 🚀💻 Dando um passo de cada vez:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   
-✋ Tenha calma! Aos poucos chego lá.
+✋ Aos poucos chego lá.
  
 ## Estatísticas do GitHub
   
