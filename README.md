@@ -4,14 +4,18 @@
 </div>
 
 # Olá 👋, sou Rarikmilkrai Souza, se sinta em casa. Tentando ser um cara bom em JAVA. Cursando Desenvolvimento de Software 🎓.
-
-## Também pode me encontrar por aqui 💻
-<div>
+<div  align="center">
+<h2>
+ Também pode me encontrar por aqui 💻
+ </h2>
+</div>
+<div  align="center">
   <a href="https://instagram.com/rarikmilkraisouza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rarikmilkrai05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rarikmilkrai-souza-94964173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- # 🚀💻 Dando um passo de cada vez:
+ ## 🚀💻 Dando um passo de cada vez:
+ 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   
 ✋ Aos poucos chego lá.
