@@ -6,6 +6,7 @@
 # Olá 👋, sou Rarikmilkrai Souza, se sinta em casa. Tentando ser um cara bom em JAVA. Cursando Desenvolvimento de Software 🎓.
 <div  align="center">
 <h2>
+
  Também pode me encontrar por aqui 💻
  </h2>
 </div>
