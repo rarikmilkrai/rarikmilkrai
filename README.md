@@ -1,8 +1,3 @@
-
-<div align="center">
-<img src="https://github.com/tassiotfc/tassiotfc/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
-
 # Olá 👋, sou Rarikmilkrai Souza, se sinta em casa. Um pouco de cada Linguagem. Cursando Desenvolvimento de Software 🎓.
 <div  align="center">
 <h2>
@@ -16,9 +11,7 @@
   <a href="https://www.linkedin.com/in/rarikmilkrai-souza-94964173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ## 🚀💻 Dando um passo de cada vez:
- 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  
+   
 ✋ Aos poucos chego lá.
  
 ## Estatísticas do GitHub
