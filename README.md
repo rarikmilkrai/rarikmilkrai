@@ -3,7 +3,7 @@
 <img src="https://github.com/tassiotfc/tassiotfc/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-# Olá 👋, sou Rarikmilkrai Souza, se sinta em casa. Tentando ser um cara bom em JAVA. Cursando Desenvolvimento de Software 🎓.
+# Olá 👋, sou Rarikmilkrai Souza, se sinta em casa. Um pouco de cada Linguagem. Cursando Desenvolvimento de Software 🎓.
 <div  align="center">
 <h2>
 
