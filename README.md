@@ -1,7 +1,6 @@
-
+<p align='center'><img src='https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif' width='100%' height='350'></p>
 <div  align="center">
-<h1>
- # Olá 👋, sou Rarikmilkrai Souza, se sinta em casa🎓.
+ <h1 align='center'>Olá, eu sou Rarikmilkrai Souza, se sinta em casa🎓🖖👨🏾‍💻</h1>
  </h1>
 </div>
 <div  align="center">
