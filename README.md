@@ -13,6 +13,7 @@
   <a href="https://instagram.com/rarikmilkraisouza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rarikmilkrai05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rarikmilkrai-souza-94964173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 
  ## 🚀💻 Dando um passo de cada vez:
    
@@ -65,8 +66,15 @@
             alt="HTML5"
             height="50"
         /></a>
-      </div>
-    </td>
+       <a href="https://www.javascript.com/"target="_blank">
+        <img 
+            style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
+            alt="JavaScript" 
+            height="50" 
+            /></a> 
+       <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
   </tr>
 </table>
 
