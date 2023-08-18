@@ -1,3 +1,6 @@
+<div align="center" >
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
 
 
 <p align="center">
@@ -41,46 +44,42 @@
 </td></tr></table>  
 
 <br/>  
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <!-- ###### My Github Stats  ##### -->
 
 <h4 align="center">
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
 </h4>
 
-<div align="center">
-<!-- <a href="http://www.github.com/rarikmilkrai"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=rarikmilkrai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="rarikmilkrai's GitHub stats" /></a> -->
-<a href="http://www.github.com/rarikmilkrai"><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rarikmilkrai&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "60%"/></a>
-
+</div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rarikmilkrai&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rarikmilkrai&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rarikmilkrai&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+    
+</div>
+  
+ </details>
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+<p align="center">
 <a href="http://www.github.com/rarikmilkrai"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarikmilkrai&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
-
+</p>
 <!-- ###### END OF My Github Stats  ##### -->
 
 <!-- ###### SOCIAL MEDIA LINKS ##### -->
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
-<h4 align="center">
- 
-<img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center"> Contact <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center">
-</h4>
-
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/br/rarikmilkrai-souza-94964173" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/rarikmilkraisouza" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</p>
-
 <!-- ###### END OF SOCIAL MEDIA LINKS ##### -->
 
 
 
-
 <!-- ###### FOOTER ##### -->
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rarikmilkrai}/count.svg" /></p>
 <h4 align="center"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Support Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
 
 <img width=100% title="rarikmilkrai" alt="rarikmilkrai"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
