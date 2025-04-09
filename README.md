@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/secret-star1202"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗👨‍💻%20Back-end%20Developer;🌐%20Python%20Developer;🌐%20JAVA%20Developer;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/secret-star1202"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗👨‍💻%20Back-end%20Developer;🌐%20DevOps;🌐%20JAVA%20Developer;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
