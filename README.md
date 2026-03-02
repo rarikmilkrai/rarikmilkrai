@@ -13,6 +13,16 @@ Sou **DevOps Engineer** e **Embaixador LinuxTips SP**.
 
 ### 📊 GitHub Stats
 
+<div align="center">
+
 ![GitHub Stats](https://raw.githubusercontent.com/rarikmilkrai/vercel-stats/main/output/github-stats.svg)
+
 ![GitHub Streak](https://raw.githubusercontent.com/rarikmilkrai/vercel-stats/main/output/github-streak.svg)
+
 ![Top Langs](https://raw.githubusercontent.com/rarikmilkrai/vercel-stats/main/output/top-langs.svg)
+
+</div>
+
+---
+
+💡 *Estatísticas atualizadas automaticamente todos os dias*
